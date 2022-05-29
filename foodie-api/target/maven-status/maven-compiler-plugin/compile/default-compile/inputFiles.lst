@@ -1,4 +1,8 @@
-C:\java-project\foodie-dev\foodie-api\src\main\java\com\imooc\controller\PassportController.java
-C:\java-project\foodie-dev\foodie-api\src\main\java\com\imooc\config\Swagger2.java
-C:\java-project\foodie-dev\foodie-api\src\main\java\com\imooc\Application.java
-C:\java-project\foodie-dev\foodie-api\src\main\java\com\imooc\config\CorsConfig.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\controller\ItemController.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\controller\BaseController.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\config\CorsConfig.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\Application.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\config\Swagger2.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\controller\PassportController.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\controller\IndexController.java
+E:\android\foodie-dev\foodie-api\src\main\java\com\imooc\aspect\ServiceLogAspect.java
