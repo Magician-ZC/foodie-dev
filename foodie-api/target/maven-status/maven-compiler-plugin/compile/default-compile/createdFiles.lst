@@ -1,4 +1,6 @@
 com\imooc\controller\ShopcatController.class
+com\imooc\config\OrderJob.class
+com\imooc\controller\center\CenterController.class
 com\imooc\config\Swagger2.class
 com\imooc\config\WebMvcConfig.class
 com\imooc\config\CorsConfig.class
